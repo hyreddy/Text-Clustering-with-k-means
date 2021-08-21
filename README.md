@@ -10,3 +10,6 @@ Steps for running Txtmine
 3) Open the java file "TxtMiningDriver" and press run
 4) topics.txt will update after each run with the keywords for each document
 5) ClusterVisualization.png has picture of the generated clusters
+
+![image](https://user-images.githubusercontent.com/70719859/130307005-f0180cb9-4ca5-4c87-9970-698a5285444b.png)
+<img width="712" alt="ClustersVisualization" src="https://user-images.githubusercontent.com/70719859/130307022-3ff0b98f-8187-46fa-9bf0-ecaa9f8696cc.png">
